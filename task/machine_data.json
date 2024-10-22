@@ -1,0 +1,479 @@
+
+[
+    {
+        "timestamp": "2024-10-22T15:36:45.091041",
+        "machine_data": {
+            "timestamp": "2024-10-22T15:36:49.348248",
+            "machine_id": "AA_001",
+            "machine_location": "Hyderabad",
+            "digital_inputs": [
+                "off"
+            ],
+            "digital_outputs": [
+                "off",
+                "on"
+            ],
+            "analog_inputs": [
+                140,
+                151
+            ],
+            "analog_outputs": [
+                175
+            ],
+            "other": [
+                30,
+                31,
+                23,
+                16
+            ]
+        }
+    },
+    {
+        "timestamp": "2024-10-22T15:36:49.996444",
+        "machine_data": {
+            "timestamp": "2024-10-22T15:36:54.363738",
+            "machine_id": "AA_001",
+            "machine_location": "Hyderabad",
+            "digital_inputs": [
+                "off"
+            ],
+            "digital_outputs": [
+                "on",
+                "on"
+            ],
+            "analog_inputs": [
+                150,
+                153
+            ],
+            "analog_outputs": [
+                171
+            ],
+            "other": [
+                39,
+                35,
+                16,
+                25
+            ]
+        }
+    },
+    {
+        "timestamp": "2024-10-22T15:36:55.013722",
+        "machine_data": {
+            "timestamp": "2024-10-22T15:36:59.372705",
+            "machine_id": "AA_001",
+            "machine_location": "Hyderabad",
+            "digital_inputs": [
+                "on"
+            ],
+            "digital_outputs": [
+                "off",
+                "off"
+            ],
+            "analog_inputs": [
+                91,
+                157
+            ],
+            "analog_outputs": [
+                181
+            ],
+            "other": [
+                32,
+                37,
+                19,
+                23
+            ]
+        }
+    },
+    {
+        "timestamp": "2024-10-22T15:37:00.030056",
+        "machine_data": {
+            "timestamp": "2024-10-22T15:37:04.378219",
+            "machine_id": "AA_001",
+            "machine_location": "Hyderabad",
+            "digital_inputs": [
+                "off"
+            ],
+            "digital_outputs": [
+                "off",
+                "off"
+            ],
+            "analog_inputs": [
+                112,
+                172
+            ],
+            "analog_outputs": [
+                160
+            ],
+            "other": [
+                37,
+                35,
+                20,
+                21
+            ]
+        }
+    },
+    {
+        "timestamp": "2024-10-22T15:37:05.010599",
+        "machine_data": {
+            "timestamp": "2024-10-22T15:37:09.393471",
+            "machine_id": "AA_001",
+            "machine_location": "Hyderabad",
+            "digital_inputs": [
+                "off"
+            ],
+            "digital_outputs": [
+                "off",
+                "off"
+            ],
+            "analog_inputs": [
+                77,
+                178
+            ],
+            "analog_outputs": [
+                187
+            ],
+            "other": [
+                33,
+                24,
+                10,
+                24
+            ]
+        }
+    },
+    {
+        "timestamp": "2024-10-22T15:37:10.026103",
+        "machine_data": {
+            "timestamp": "2024-10-22T15:37:14.398692",
+            "machine_id": "AA_001",
+            "machine_location": "Hyderabad",
+            "digital_inputs": [
+                "off"
+            ],
+            "digital_outputs": [
+                "on",
+                "off"
+            ],
+            "analog_inputs": [
+                134,
+                167
+            ],
+            "analog_outputs": [
+                155
+            ],
+            "other": [
+                39,
+                22,
+                23,
+                15
+            ]
+        }
+    },
+    {
+        "timestamp": "2024-10-22T15:37:15.197625",
+        "machine_data": {
+            "timestamp": "2024-10-22T15:37:19.400130",
+            "machine_id": "AA_001",
+            "machine_location": "Hyderabad",
+            "digital_inputs": [
+                "on"
+            ],
+            "digital_outputs": [
+                "on",
+                "on"
+            ],
+            "analog_inputs": [
+                124,
+                164
+            ],
+            "analog_outputs": [
+                179
+            ],
+            "other": [
+                32,
+                32,
+                22,
+                20
+            ]
+        }
+    },
+    {
+        "timestamp": "2024-10-22T15:37:19.997994",
+        "machine_data": {
+            "timestamp": "2024-10-22T15:37:24.412569",
+            "machine_id": "AA_001",
+            "machine_location": "Hyderabad",
+            "digital_inputs": [
+                "off"
+            ],
+            "digital_outputs": [
+                "on",
+                "on"
+            ],
+            "analog_inputs": [
+                105,
+                175
+            ],
+            "analog_outputs": [
+                184
+            ],
+            "other": [
+                30,
+                40,
+                12,
+                24
+            ]
+        }
+    },
+    {
+        "timestamp": "2024-10-22T15:37:25.231741",
+        "machine_data": {
+            "timestamp": "2024-10-22T15:37:29.424158",
+            "machine_id": "AA_001",
+            "machine_location": "Hyderabad",
+            "digital_inputs": [
+                "off"
+            ],
+            "digital_outputs": [
+                "on",
+                "off"
+            ],
+            "analog_inputs": [
+                88,
+                157
+            ],
+            "analog_outputs": [
+                173
+            ],
+            "other": [
+                34,
+                30,
+                17,
+                18
+            ]
+        }
+    },
+    {
+        "timestamp": "2024-10-22T15:37:29.979171",
+        "machine_data": {
+            "timestamp": "2024-10-22T15:37:34.433722",
+            "machine_id": "AA_001",
+            "machine_location": "Hyderabad",
+            "digital_inputs": [
+                "off"
+            ],
+            "digital_outputs": [
+                "on",
+                "off"
+            ],
+            "analog_inputs": [
+                91,
+                179
+            ],
+            "analog_outputs": [
+                184
+            ],
+            "other": [
+                34,
+                28,
+                12,
+                19
+            ]
+        }
+    },
+    {
+        "timestamp": "2024-10-22T15:37:35.266784",
+        "machine_data": {
+            "timestamp": "2024-10-22T15:37:39.443183",
+            "machine_id": "AA_001",
+            "machine_location": "Hyderabad",
+            "digital_inputs": [
+                "on"
+            ],
+            "digital_outputs": [
+                "off",
+                "off"
+            ],
+            "analog_inputs": [
+                109,
+                164
+            ],
+            "analog_outputs": [
+                200
+            ],
+            "other": [
+                39,
+                25,
+                23,
+                19
+            ]
+        }
+    },
+    {
+        "timestamp": "2024-10-22T15:37:39.987951",
+        "machine_data": {
+            "timestamp": "2024-10-22T15:37:44.444339",
+            "machine_id": "AA_001",
+            "machine_location": "Hyderabad",
+            "digital_inputs": [
+                "off"
+            ],
+            "digital_outputs": [
+                "off",
+                "on"
+            ],
+            "analog_inputs": [
+                132,
+                178
+            ],
+            "analog_outputs": [
+                161
+            ],
+            "other": [
+                30,
+                28,
+                14,
+                23
+            ]
+        }
+    },
+    {
+        "timestamp": "2024-10-22T15:37:44.986562",
+        "machine_data": {
+            "timestamp": "2024-10-22T15:37:49.450175",
+            "machine_id": "AA_001",
+            "machine_location": "Hyderabad",
+            "digital_inputs": [
+                "off"
+            ],
+            "digital_outputs": [
+                "on",
+                "on"
+            ],
+            "analog_inputs": [
+                69,
+                161
+            ],
+            "analog_outputs": [
+                194
+            ],
+            "other": [
+                33,
+                39,
+                21,
+                22
+            ]
+        }
+    },
+    {
+        "timestamp": "2024-10-22T15:37:50.104585",
+        "machine_data": {
+            "timestamp": "2024-10-22T15:37:54.451212",
+            "machine_id": "AA_001",
+            "machine_location": "Hyderabad",
+            "digital_inputs": [
+                "on"
+            ],
+            "digital_outputs": [
+                "off",
+                "on"
+            ],
+            "analog_inputs": [
+                136,
+                177
+            ],
+            "analog_outputs": [
+                163
+            ],
+            "other": [
+                31,
+                21,
+                11,
+                18
+            ]
+        }
+    },
+    {
+        "timestamp": "2024-10-22T15:37:55.009175",
+        "machine_data": {
+            "timestamp": "2024-10-22T15:37:59.461089",
+            "machine_id": "AA_001",
+            "machine_location": "Hyderabad",
+            "digital_inputs": [
+                "off"
+            ],
+            "digital_outputs": [
+                "on",
+                "off"
+            ],
+            "analog_inputs": [
+                46,
+                174
+            ],
+            "analog_outputs": [
+                154
+            ],
+            "other": [
+                33,
+                25,
+                15,
+                16
+            ]
+        }
+    },
+    {
+        "timestamp": "2024-10-22T15:38:00.032648",
+        "machine_data": {
+            "timestamp": "2024-10-22T15:38:04.464033",
+            "machine_id": "AA_001",
+            "machine_location": "Hyderabad",
+            "digital_inputs": [
+                "on"
+            ],
+            "digital_outputs": [
+                "off",
+                "off"
+            ],
+            "analog_inputs": [
+                34,
+                174
+            ],
+            "analog_outputs": [
+                162
+            ],
+            "other": [
+                32,
+                34,
+                16,
+                22
+            ]
+        }
+    },
+    {
+        "timestamp": "2024-10-22T15:38:05.016324",
+        "machine_data": {
+            "timestamp": "2024-10-22T15:38:09.473433",
+            "machine_id": "AA_001",
+            "machine_location": "Hyderabad",
+            "digital_inputs": [
+                "on"
+            ],
+            "digital_outputs": [
+                "off",
+                "off"
+            ],
+            "analog_inputs": [
+                97,
+                174
+            ],
+            "analog_outputs": [
+                150
+            ],
+            "other": [
+                39,
+                24,
+                23,
+                24
+            ]
+        }
+    }
+]
